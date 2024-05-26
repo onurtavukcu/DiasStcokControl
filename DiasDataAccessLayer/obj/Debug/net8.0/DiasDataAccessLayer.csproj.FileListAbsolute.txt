@@ -1,0 +1,17 @@
+C:\Users\adm\Desktop\DiasStockControl\DiasDataAccessLayer\bin\Debug\net8.0\DiasDataAccessLayer.deps.json
+C:\Users\adm\Desktop\DiasStockControl\DiasDataAccessLayer\bin\Debug\net8.0\DiasDataAccessLayer.runtimeconfig.json
+C:\Users\adm\Desktop\DiasStockControl\DiasDataAccessLayer\bin\Debug\net8.0\DiasDataAccessLayer.dll
+C:\Users\adm\Desktop\DiasStockControl\DiasDataAccessLayer\bin\Debug\net8.0\DiasDataAccessLayer.pdb
+C:\Users\adm\Desktop\DiasStockControl\DiasDataAccessLayer\bin\Debug\net8.0\DiasShared.dll
+C:\Users\adm\Desktop\DiasStockControl\DiasDataAccessLayer\bin\Debug\net8.0\DiasShared.pdb
+C:\Users\adm\Desktop\DiasStockControl\DiasDataAccessLayer\obj\Debug\net8.0\DiasDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\adm\Desktop\DiasStockControl\DiasDataAccessLayer\obj\Debug\net8.0\DiasDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adm\Desktop\DiasStockControl\DiasDataAccessLayer\obj\Debug\net8.0\DiasDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\adm\Desktop\DiasStockControl\DiasDataAccessLayer\obj\Debug\net8.0\DiasDataAccessLayer.AssemblyInfo.cs
+C:\Users\adm\Desktop\DiasStockControl\DiasDataAccessLayer\obj\Debug\net8.0\DiasDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\DiasStockControl\DiasDataAccessLayer\obj\Debug\net8.0\DiasData.496A3089.Up2Date
+C:\Users\adm\Desktop\DiasStockControl\DiasDataAccessLayer\obj\Debug\net8.0\DiasDataAccessLayer.dll
+C:\Users\adm\Desktop\DiasStockControl\DiasDataAccessLayer\obj\Debug\net8.0\refint\DiasDataAccessLayer.dll
+C:\Users\adm\Desktop\DiasStockControl\DiasDataAccessLayer\obj\Debug\net8.0\DiasDataAccessLayer.pdb
+C:\Users\adm\Desktop\DiasStockControl\DiasDataAccessLayer\obj\Debug\net8.0\DiasDataAccessLayer.genruntimeconfig.cache
+C:\Users\adm\Desktop\DiasStockControl\DiasDataAccessLayer\obj\Debug\net8.0\ref\DiasDataAccessLayer.dll

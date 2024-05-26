@@ -1,0 +1,13 @@
+C:\Users\adm\Desktop\DiasStockControl\DiasShared\bin\Debug\net8.0\DiasShared.deps.json
+C:\Users\adm\Desktop\DiasStockControl\DiasShared\bin\Debug\net8.0\DiasShared.runtimeconfig.json
+C:\Users\adm\Desktop\DiasStockControl\DiasShared\bin\Debug\net8.0\DiasShared.dll
+C:\Users\adm\Desktop\DiasStockControl\DiasShared\bin\Debug\net8.0\DiasShared.pdb
+C:\Users\adm\Desktop\DiasStockControl\DiasShared\obj\Debug\net8.0\DiasShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adm\Desktop\DiasStockControl\DiasShared\obj\Debug\net8.0\DiasShared.AssemblyInfoInputs.cache
+C:\Users\adm\Desktop\DiasStockControl\DiasShared\obj\Debug\net8.0\DiasShared.AssemblyInfo.cs
+C:\Users\adm\Desktop\DiasStockControl\DiasShared\obj\Debug\net8.0\DiasShared.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\DiasStockControl\DiasShared\obj\Debug\net8.0\DiasShared.dll
+C:\Users\adm\Desktop\DiasStockControl\DiasShared\obj\Debug\net8.0\refint\DiasShared.dll
+C:\Users\adm\Desktop\DiasStockControl\DiasShared\obj\Debug\net8.0\DiasShared.pdb
+C:\Users\adm\Desktop\DiasStockControl\DiasShared\obj\Debug\net8.0\DiasShared.genruntimeconfig.cache
+C:\Users\adm\Desktop\DiasStockControl\DiasShared\obj\Debug\net8.0\ref\DiasShared.dll

@@ -1,0 +1,451 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adm\\Desktop\\DiasStockControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E3F544-0C2C-4A30-B76E-03CA45EC9F94}|DiasAPI\\DiasAPI.csproj|c:\\users\\adm\\desktop\\diasstockcontrol\\diasapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E3F544-0C2C-4A30-B76E-03CA45EC9F94}|DiasAPI\\DiasAPI.csproj|solutionrelative:diasapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E3F544-0C2C-4A30-B76E-03CA45EC9F94}|DiasAPI\\DiasAPI.csproj|c:\\users\\adm\\desktop\\diasstockcontrol\\diasapi\\scheduledjobs\\updateproductjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E3F544-0C2C-4A30-B76E-03CA45EC9F94}|DiasAPI\\DiasAPI.csproj|solutionrelative:diasapi\\scheduledjobs\\updateproductjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E3F544-0C2C-4A30-B76E-03CA45EC9F94}|DiasAPI\\DiasAPI.csproj|c:\\users\\adm\\desktop\\diasstockcontrol\\diasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E3F544-0C2C-4A30-B76E-03CA45EC9F94}|DiasAPI\\DiasAPI.csproj|solutionrelative:diasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACF951B-7449-474D-AFCF-2232A6EA81AC}|DiasDomain\\DiasDomain.csproj|c:\\users\\adm\\desktop\\diasstockcontrol\\diasdomain\\productcommands\\crudoperations\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACF951B-7449-474D-AFCF-2232A6EA81AC}|DiasDomain\\DiasDomain.csproj|solutionrelative:diasdomain\\productcommands\\crudoperations\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E3F544-0C2C-4A30-B76E-03CA45EC9F94}|DiasAPI\\DiasAPI.csproj|c:\\users\\adm\\desktop\\diasstockcontrol\\diasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8E3F544-0C2C-4A30-B76E-03CA45EC9F94}|DiasAPI\\DiasAPI.csproj|solutionrelative:diasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E3F544-0C2C-4A30-B76E-03CA45EC9F94}|DiasAPI\\DiasAPI.csproj|c:\\users\\adm\\desktop\\diasstockcontrol\\diasapi\\checkdbextension\\checkdbexistance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E3F544-0C2C-4A30-B76E-03CA45EC9F94}|DiasAPI\\DiasAPI.csproj|solutionrelative:diasapi\\checkdbextension\\checkdbexistance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4FF9B2-1032-4862-9082-77913F2172DE}|DiasShared\\DiasShared.csproj|c:\\users\\adm\\desktop\\diasstockcontrol\\diasshared\\entities\\models\\pricehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4FF9B2-1032-4862-9082-77913F2172DE}|DiasShared\\DiasShared.csproj|solutionrelative:diasshared\\entities\\models\\pricehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4FF9B2-1032-4862-9082-77913F2172DE}|DiasShared\\DiasShared.csproj|c:\\users\\adm\\desktop\\diasstockcontrol\\diasshared\\entities\\baseentities\\ibaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4FF9B2-1032-4862-9082-77913F2172DE}|DiasShared\\DiasShared.csproj|solutionrelative:diasshared\\entities\\baseentities\\ibaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4FF9B2-1032-4862-9082-77913F2172DE}|DiasShared\\DiasShared.csproj|c:\\users\\adm\\desktop\\diasstockcontrol\\diasshared\\entities\\baseentities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4FF9B2-1032-4862-9082-77913F2172DE}|DiasShared\\DiasShared.csproj|solutionrelative:diasshared\\entities\\baseentities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4FF9B2-1032-4862-9082-77913F2172DE}|DiasShared\\DiasShared.csproj|c:\\users\\adm\\desktop\\diasstockcontrol\\diasshared\\dtos\\outputdto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4FF9B2-1032-4862-9082-77913F2172DE}|DiasShared\\DiasShared.csproj|solutionrelative:diasshared\\dtos\\outputdto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4FF9B2-1032-4862-9082-77913F2172DE}|DiasShared\\DiasShared.csproj|c:\\users\\adm\\desktop\\diasstockcontrol\\diasshared\\dtos\\outputdto\\pricehistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4FF9B2-1032-4862-9082-77913F2172DE}|DiasShared\\DiasShared.csproj|solutionrelative:diasshared\\dtos\\outputdto\\pricehistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4FF9B2-1032-4862-9082-77913F2172DE}|DiasShared\\DiasShared.csproj|c:\\users\\adm\\desktop\\diasstockcontrol\\diasshared\\dtos\\inputdto\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4FF9B2-1032-4862-9082-77913F2172DE}|DiasShared\\DiasShared.csproj|solutionrelative:diasshared\\dtos\\inputdto\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4FF9B2-1032-4862-9082-77913F2172DE}|DiasShared\\DiasShared.csproj|c:\\users\\adm\\desktop\\diasstockcontrol\\diasshared\\dtos\\inputdto\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4FF9B2-1032-4862-9082-77913F2172DE}|DiasShared\\DiasShared.csproj|solutionrelative:diasshared\\dtos\\inputdto\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4FF9B2-1032-4862-9082-77913F2172DE}|DiasShared\\DiasShared.csproj|c:\\users\\adm\\desktop\\diasstockcontrol\\diasshared\\dtos\\inputdto\\getproductwithfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4FF9B2-1032-4862-9082-77913F2172DE}|DiasShared\\DiasShared.csproj|solutionrelative:diasshared\\dtos\\inputdto\\getproductwithfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACF951B-7449-474D-AFCF-2232A6EA81AC}|DiasDomain\\DiasDomain.csproj|c:\\users\\adm\\desktop\\diasstockcontrol\\diasdomain\\productcommands\\validationoperations\\productvalidationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACF951B-7449-474D-AFCF-2232A6EA81AC}|DiasDomain\\DiasDomain.csproj|solutionrelative:diasdomain\\productcommands\\validationoperations\\productvalidationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACF951B-7449-474D-AFCF-2232A6EA81AC}|DiasDomain\\DiasDomain.csproj|c:\\users\\adm\\desktop\\diasstockcontrol\\diasdomain\\productcommands\\crudoperations\\getproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACF951B-7449-474D-AFCF-2232A6EA81AC}|DiasDomain\\DiasDomain.csproj|solutionrelative:diasdomain\\productcommands\\crudoperations\\getproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACF951B-7449-474D-AFCF-2232A6EA81AC}|DiasDomain\\DiasDomain.csproj|c:\\users\\adm\\desktop\\diasstockcontrol\\diasdomain\\productcommands\\crudoperations\\addproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACF951B-7449-474D-AFCF-2232A6EA81AC}|DiasDomain\\DiasDomain.csproj|solutionrelative:diasdomain\\productcommands\\crudoperations\\addproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369F0A88-B02C-437B-80BC-2537CBFE731E}|DiasDataAccessLayer\\DiasDataAccessLayer.csproj|c:\\users\\adm\\desktop\\diasstockcontrol\\diasdataaccesslayer\\entitydbcontext\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369F0A88-B02C-437B-80BC-2537CBFE731E}|DiasDataAccessLayer\\DiasDataAccessLayer.csproj|solutionrelative:diasdataaccesslayer\\entitydbcontext\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasDataAccessLayer\\Migrations\\20240526134917_InitialMigration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DiasDataAccessLayer\\Migrations\\20240526134917_InitialMigration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4FF9B2-1032-4862-9082-77913F2172DE}|DiasShared\\DiasShared.csproj|c:\\users\\adm\\desktop\\diasstockcontrol\\diasshared\\entities\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4FF9B2-1032-4862-9082-77913F2172DE}|DiasShared\\DiasShared.csproj|solutionrelative:diasshared\\entities\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4FF9B2-1032-4862-9082-77913F2172DE}|DiasShared\\DiasShared.csproj|c:\\users\\adm\\desktop\\diasstockcontrol\\diasshared\\entities\\models\\pricetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4FF9B2-1032-4862-9082-77913F2172DE}|DiasShared\\DiasShared.csproj|solutionrelative:diasshared\\entities\\models\\pricetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4FF9B2-1032-4862-9082-77913F2172DE}|DiasShared\\DiasShared.csproj|c:\\users\\adm\\desktop\\diasstockcontrol\\diasshared\\entities\\models\\pricetypeenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4FF9B2-1032-4862-9082-77913F2172DE}|DiasShared\\DiasShared.csproj|solutionrelative:diasshared\\entities\\models\\pricetypeenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4FF9B2-1032-4862-9082-77913F2172DE}|DiasShared\\DiasShared.csproj|c:\\users\\adm\\desktop\\diasstockcontrol\\diasshared\\diasshared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA4FF9B2-1032-4862-9082-77913F2172DE}|DiasShared\\DiasShared.csproj|solutionrelative:diasshared\\diasshared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasDataAccessLayer\\Migrations\\20240524233820_InitialMigration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DiasDataAccessLayer\\Migrations\\20240524233820_InitialMigration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 30,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DiasAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasAPI\\Program.cs",
+              "RelativeToolTip": "DiasAPI\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwDIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:12:04.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240526134917_InitialMigration1.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasDataAccessLayer\\Migrations\\20240526134917_InitialMigration1.cs",
+              "RelativeDocumentMoniker": "DiasDataAccessLayer\\Migrations\\20240526134917_InitialMigration1.cs",
+              "ToolTip": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasDataAccessLayer\\Migrations\\20240526134917_InitialMigration1.cs",
+              "RelativeToolTip": "DiasDataAccessLayer\\Migrations\\20240526134917_InitialMigration1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:49:17.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasDomain\\ProductCommands\\CRUDOperations\\GetProductCommand.cs",
+              "RelativeDocumentMoniker": "DiasDomain\\ProductCommands\\CRUDOperations\\GetProductCommand.cs",
+              "ToolTip": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasDomain\\ProductCommands\\CRUDOperations\\GetProductCommand.cs",
+              "RelativeToolTip": "DiasDomain\\ProductCommands\\CRUDOperations\\GetProductCommand.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwDQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:38:29.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasDomain\\ProductCommands\\CRUDOperations\\UpdateProductCommand.cs",
+              "RelativeDocumentMoniker": "DiasDomain\\ProductCommands\\CRUDOperations\\UpdateProductCommand.cs",
+              "ToolTip": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasDomain\\ProductCommands\\CRUDOperations\\UpdateProductCommand.cs",
+              "RelativeToolTip": "DiasDomain\\ProductCommands\\CRUDOperations\\UpdateProductCommand.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwCAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:37:27.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasDomain\\ProductCommands\\CRUDOperations\\AddProductCommand.cs",
+              "RelativeDocumentMoniker": "DiasDomain\\ProductCommands\\CRUDOperations\\AddProductCommand.cs",
+              "ToolTip": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasDomain\\ProductCommands\\CRUDOperations\\AddProductCommand.cs",
+              "RelativeToolTip": "DiasDomain\\ProductCommands\\CRUDOperations\\AddProductCommand.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAQwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:35:37.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckDbExistance.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasAPI\\CheckDbExtension\\CheckDbExistance.cs",
+              "RelativeDocumentMoniker": "DiasAPI\\CheckDbExtension\\CheckDbExistance.cs",
+              "ToolTip": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasAPI\\CheckDbExtension\\CheckDbExistance.cs",
+              "RelativeToolTip": "DiasAPI\\CheckDbExtension\\CheckDbExistance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:25:45.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PriceTypeEnums.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasShared\\Entities\\Models\\PriceTypeEnums.cs",
+              "RelativeDocumentMoniker": "DiasShared\\Entities\\Models\\PriceTypeEnums.cs",
+              "ToolTip": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasShared\\Entities\\Models\\PriceTypeEnums.cs",
+              "RelativeToolTip": "DiasShared\\Entities\\Models\\PriceTypeEnums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:27:38.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PriceHistoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasShared\\DTOs\\OutputDTO\\PriceHistoryDTO.cs",
+              "RelativeDocumentMoniker": "DiasShared\\DTOs\\OutputDTO\\PriceHistoryDTO.cs",
+              "ToolTip": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasShared\\DTOs\\OutputDTO\\PriceHistoryDTO.cs",
+              "RelativeToolTip": "DiasShared\\DTOs\\OutputDTO\\PriceHistoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:46:47.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasShared\\DTOs\\OutputDTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "DiasShared\\DTOs\\OutputDTO\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasShared\\DTOs\\OutputDTO\\ProductDTO.cs",
+              "RelativeToolTip": "DiasShared\\DTOs\\OutputDTO\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:46:18.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DiasShared.csproj",
+              "DocumentMoniker": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasShared\\DiasShared.csproj",
+              "RelativeDocumentMoniker": "DiasShared\\DiasShared.csproj",
+              "ToolTip": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasShared\\DiasShared.csproj",
+              "RelativeToolTip": "DiasShared\\DiasShared.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T20:38:55.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "DiasAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasAPI\\appsettings.json",
+              "RelativeToolTip": "DiasAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-25T20:04:18.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateProductjob.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasAPI\\ScheduledJobs\\UpdateProductjob.cs",
+              "RelativeDocumentMoniker": "DiasAPI\\ScheduledJobs\\UpdateProductjob.cs",
+              "ToolTip": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasAPI\\ScheduledJobs\\UpdateProductjob.cs",
+              "RelativeToolTip": "DiasAPI\\ScheduledJobs\\UpdateProductjob.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:42:41.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasShared\\Entities\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DiasShared\\Entities\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasShared\\Entities\\Models\\Product.cs",
+              "RelativeToolTip": "DiasShared\\Entities\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T15:07:03.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PriceType.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasShared\\Entities\\Models\\PriceType.cs",
+              "RelativeDocumentMoniker": "DiasShared\\Entities\\Models\\PriceType.cs",
+              "ToolTip": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasShared\\Entities\\Models\\PriceType.cs",
+              "RelativeToolTip": "DiasShared\\Entities\\Models\\PriceType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:52:50.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetProductWithFilterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasShared\\DTOs\\InputDTO\\GetProductWithFilterDTO.cs",
+              "RelativeDocumentMoniker": "DiasShared\\DTOs\\InputDTO\\GetProductWithFilterDTO.cs",
+              "ToolTip": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasShared\\DTOs\\InputDTO\\GetProductWithFilterDTO.cs",
+              "RelativeToolTip": "DiasShared\\DTOs\\InputDTO\\GetProductWithFilterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:24:07.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasShared\\DTOs\\InputDTO\\UpdateProductDTO.cs",
+              "RelativeDocumentMoniker": "DiasShared\\DTOs\\InputDTO\\UpdateProductDTO.cs",
+              "ToolTip": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasShared\\DTOs\\InputDTO\\UpdateProductDTO.cs",
+              "RelativeToolTip": "DiasShared\\DTOs\\InputDTO\\UpdateProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:17:40.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductValidationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasDomain\\ProductCommands\\ValidationOperations\\ProductValidationCommand.cs",
+              "RelativeDocumentMoniker": "DiasDomain\\ProductCommands\\ValidationOperations\\ProductValidationCommand.cs",
+              "ToolTip": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasDomain\\ProductCommands\\ValidationOperations\\ProductValidationCommand.cs",
+              "RelativeToolTip": "DiasDomain\\ProductCommands\\ValidationOperations\\ProductValidationCommand.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:09:57.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240524233820_InitialMigration1.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasDataAccessLayer\\Migrations\\20240524233820_InitialMigration1.cs",
+              "RelativeDocumentMoniker": "DiasDataAccessLayer\\Migrations\\20240524233820_InitialMigration1.cs",
+              "ToolTip": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasDataAccessLayer\\Migrations\\20240524233820_InitialMigration1.cs",
+              "RelativeToolTip": "DiasDataAccessLayer\\Migrations\\20240524233820_InitialMigration1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T23:38:20.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasShared\\DTOs\\InputDTO\\AddProductDTO.cs",
+              "RelativeDocumentMoniker": "DiasShared\\DTOs\\InputDTO\\AddProductDTO.cs",
+              "ToolTip": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasShared\\DTOs\\InputDTO\\AddProductDTO.cs",
+              "RelativeToolTip": "DiasShared\\DTOs\\InputDTO\\AddProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T23:24:14.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasDataAccessLayer\\EntityDbContext\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "DiasDataAccessLayer\\EntityDbContext\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasDataAccessLayer\\EntityDbContext\\ProductDbContext.cs",
+              "RelativeToolTip": "DiasDataAccessLayer\\EntityDbContext\\ProductDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:12:03.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasShared\\Entities\\BaseEntities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "DiasShared\\Entities\\BaseEntities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasShared\\Entities\\BaseEntities\\BaseEntity.cs",
+              "RelativeToolTip": "DiasShared\\Entities\\BaseEntities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:56:25.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasShared\\Entities\\BaseEntities\\IBaseEntity.cs",
+              "RelativeDocumentMoniker": "DiasShared\\Entities\\BaseEntities\\IBaseEntity.cs",
+              "ToolTip": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasShared\\Entities\\BaseEntities\\IBaseEntity.cs",
+              "RelativeToolTip": "DiasShared\\Entities\\BaseEntities\\IBaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:55:41.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PriceHistory.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasShared\\Entities\\Models\\PriceHistory.cs",
+              "RelativeDocumentMoniker": "DiasShared\\Entities\\Models\\PriceHistory.cs",
+              "ToolTip": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasShared\\Entities\\Models\\PriceHistory.cs",
+              "RelativeToolTip": "DiasShared\\Entities\\Models\\PriceHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:35:04.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "DiasAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\adm\\Desktop\\DiasStockControl\\DiasAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "DiasAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA9wDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:15:13.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
